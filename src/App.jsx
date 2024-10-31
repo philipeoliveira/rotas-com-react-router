@@ -15,7 +15,7 @@ export default function App() {
                <li>
                   <Link to={'/about'}>
                      <button type='button' aria-label='Link para página About'>
-                        About
+                        Sobre o site
                      </button>
                   </Link>
                </li>
